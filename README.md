@@ -33,9 +33,9 @@ Not everything needs to be loud to be correct.
 ---
 
 ## Presence
-- GitHub: https://github.com/x2t8  
-- Personal: https://txuan.netlify.app  
-- TikTok: https://www.tiktok.com/@naux.yu
+- Personal: https://txuan.netlify.app 
+- Instagram: https://www.instagram.com/txuandev
+- Telegram: https://t.me/txuandev
 
 ---
 
