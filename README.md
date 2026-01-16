@@ -1,16 +1,35 @@
-## Hi there 👋
+# x2t8
+Minimalist. Builder. System-oriented.
 
-<!--
-**x2t8/x2t8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I build software that stays quiet, local, and under control.  
+Currently exploring systems, security, low-level execution, and correctness through formal methods.
 
-Here are some ideas to get you started:
+## Focus
+- System-oriented development & tooling
+- Local-first, low-level thinking
+- Security & execution correctness
+- Formal verification (learning & applying Coq)
+- Full-stack with strong frontend (React / React Native)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+- Languages: Rust, TypeScript, JavaScript
+- Exploring: Coq (formal methods)
+- Frontend: React, React Native
+- Runtime: Node.js
+- Tools: Git, Linux, Docker
+
+## Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x2t8&show_icons=true&hide_title=true&hide_rank=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x2t8&layout=compact&theme=dark)
+
+## Highlight Projects
+- [Naux](https://github.com/x2t8/Naux) – Rust-based executor tool
+- Ongoing work in systems & formal verification (private / experimental)
+
+## Presence
+- GitHub: https://github.com/x2t8
+- Personal: https://txuan.netlify.app
+- TikTok: https://www.tiktok.com/@naux.yu
+
+> Quiet software lasts longer. Correct software lasts longer still.
