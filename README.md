@@ -1,18 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=E32F26&center=true&vCenter=true&width=850&lines=Arvid+Falkner;Systems+Builder;Adversarial+by+Design;Formal+Verification+Expert;Security+Researcher." alt="Typing SVG" />
-
-  <br />
-
-  <blockquote>
-    "I study how systems fail — and eliminate those failure modes."
-  </blockquote>
-
-  <div align="center">
-    <img src="https://img.shields.io/badge/Binary_Analysis-FF0000?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kernel_Exploitation-000000?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Formal_Verification-00599C?style=for-the-badge&logo=coq&logoColor=white" />
-  </div>
-</div>
+# Arvid Falkner
+> **Systems Architect | Security Researcher | Formal Verification Expert**
 
 ---
 
@@ -35,6 +22,7 @@
 | **Networking** | ![Scapy](https://img.shields.io/badge/-Scapy-00599C?style=flat-square&logo=python) ![Bettercap](https://img.shields.io/badge/-Bettercap-orange?style=flat-square) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark) |
 | **Signals/HW** | ![SDR](https://img.shields.io/badge/-SDR/Radio-green?style=flat-square) ![Logic](https://img.shields.io/badge/-Logic_Analyzer-grey?style=flat-square) ![FPGAs](https://img.shields.io/badge/-Verilog-brown?style=flat-square) |
 | **Infra/OS** | ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos) ![HardenedLinux](https://img.shields.io/badge/-Hardened_Linux-black?style=flat-square&logo=linux) ![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat-square&logo=qemu) |
+| **Communication** | ![Vietnamese](https://img.shields.io/badge/-Vietnamese_Native-E32F26?style=flat-square) ![English](https://img.shields.io/badge/-English_Technical-blue?style=flat-square) ![Chinese](https://img.shields.io/badge/-Chinese_Basic-orange?style=flat-square) |
 
 ---
 
@@ -55,21 +43,9 @@
 
 ---
 
-### 📞 Connect & Secure Comms
+### 📞 Connect
 
 <div align="left">
-  <a href="https://txuan.netlify.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me" /></a>
   <a href="https://t.me/txuandev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" /></a>
   <a href="mailto:contact@txuan.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
 </div>
-
-<br />
-
-<details>
-<summary>🔑 <strong>PGP Public Key (Arvid Falkner)</strong></summary>
-<br>
-
-```text
------BEGIN PGP PUBLIC KEY BLOCK-----
-[Dán Key PGP thật của bro vào đây để xác tín danh tính]
------END PGP PUBLIC KEY BLOCK-----
