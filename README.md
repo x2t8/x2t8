@@ -1,4 +1,4 @@
-# ⚡ Arvid Falkner
+# Arvid Falkner
 > **Systems Architect | Security Researcher | Formal Verification Expert**
 
 ---
