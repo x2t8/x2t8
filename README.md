@@ -32,20 +32,10 @@
 - **Vulnerability Research**: Private exploits targeting Linux Kernel modules and proprietary protocols.
 - **Formal Proofs**: Verified implementations of cryptographic primitives and state machines.
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=x2t8&show_icons=true&theme=transparent&hide_border=true&title_color=E32F26&text_color=fff&icon_color=E32F26&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x2t8&layout=compact&theme=transparent&hide_border=true&title_color=E32F26&text_color=fff" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/x2t8/x2t8/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
 ---
 
 ### 📞 Connect
 
 <div align="left">
   <a href="https://t.me/txuandev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" /></a>
-  <a href="mailto:contact@txuan.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
 </div>
