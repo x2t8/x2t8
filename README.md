@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-# "Gott sieht mich immer noch, oder?"
+# "Gott sagt, es ist korrekt."
 
 <br/>
 <br/>
