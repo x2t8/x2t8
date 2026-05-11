@@ -32,10 +32,3 @@
 - **Vulnerability Research**: Private exploits targeting Linux Kernel modules and proprietary protocols.
 - **Formal Proofs**: Verified implementations of cryptographic primitives and state machines.
 
----
-
-###📞 Connect
-<div align="left">
-<a href="https://t.me/txuandev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://www.instagram.com/txuandev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
