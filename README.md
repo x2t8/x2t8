@@ -3,7 +3,7 @@
 
 ---
 
-### 🛡️ Full-Stack Adversarial Capabilities
+###  Full-Stack Adversarial Capabilities
 
 - **Low-Level Exploitation**: Userland/Kernel RCE, Bypassing mitigations (ASLR, DEP, KASLR, SMEP/SMAP).
 - **Formal Methods**: Rigorous proof of correctness for critical logic using **Coq (~90%)** and **Lean**.
@@ -13,7 +13,7 @@
 
 ---
 
-### ⚡ Technical Arsenal
+###  Technical Arsenal
 
 | Domain | Tools & Languages |
 | :--- | :--- |
@@ -26,7 +26,7 @@
 
 ---
 
-### 📂 Research & Impact
+###  Research & Impact
 
 - **[Naux](https://github.com/x2t8/Naux)**: A Rust-based executor designed for sandboxed, deterministic security research.
 - **Vulnerability Research**: Private exploits targeting Linux Kernel modules and proprietary protocols.
