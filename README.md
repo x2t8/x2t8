@@ -1,4 +1,4 @@
-# Arvid Falkner
+# Kim Thanh Xuân (Arvid Falkner)
 > **Systems Architect | Security Researcher | Formal Verification Expert**
 
 ---
